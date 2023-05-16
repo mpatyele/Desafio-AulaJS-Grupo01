@@ -16,7 +16,23 @@ const Mariana = {
     senha: "123cde"
 }
 
+const Pedro = {
+    nome: "Pedro Abenza",
+    idade: 18,
+    cidade: "Bady-Bassit",
+    UF: "SP",
+    email: "pedro@gama.com.br",
+    senha: "abc124cc"
+}
 
+const Valfrido = {
+    nome: "Valfrido Santiago",
+    idade: 25,
+    cidade: "Goiana",
+    UF: "PE",
+    email: "Valfridosantiago@gama.com.br",
+    senha: "ttb4477"
+}
 
 
 let nome, idade, cidade, uf, email = "isaac@gama.com.br", senha = "abc123";
